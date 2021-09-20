@@ -1,0 +1,21 @@
+{
+  "name": "offline-cheatbreaker",
+  "productName": "Offline CheatBreaker",
+  "version": "0.1.0",
+  "description": "Offline CheatBreaker",
+  "repository": "https://github.com/Offline-Cheatbreaker/Electron-Launcher",
+  "author": "Offline CheatBreaker",
+  "license": "UNLICENSED",
+  "main": "app/main.js",
+  "dependencies": {
+    "electron-log": "4.4.1",
+    "graceful-fs": "4.2.8",
+    "md5-file": "5.0.0",
+    "minecraft-launcher-core": "3.16.7",
+    "mkdirp": "1.0.4",
+    "moment": "2.29.1",
+    "node-fetch": "2.6.1",
+    "node-hwid": "0.1.0",
+    "systeminformation": "5.8.0"
+  }
+}
